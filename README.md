@@ -1,4 +1,4 @@
-Stroke Risk Prediction – Deep Learning Case Study
+## Stroke Risk Prediction – Deep Learning Case Study
 Ranked Top 1 in this project as part of the Zaka.ai Artificial Intelligence Certification – Machine Learning Specialization
 
 Objective
